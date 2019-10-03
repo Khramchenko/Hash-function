@@ -1,6 +1,4 @@
-# Модуль предоставляет следующие функции: md5(), sha1(), sha224(), sha256(), sha384 и sha512().
-
-import hashlib
+import hashlib   # Модуль предоставляет следующие функции: md5(), sha1(), sha224(), sha256(), sha384 и sha512().
 import sys
 import os
 
